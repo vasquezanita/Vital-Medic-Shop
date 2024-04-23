@@ -1,0 +1,55 @@
+.logotipo{
+    width: 130px;
+    height: 130px;
+    border-radius: 95px;
+    border: solid black;
+    border-width: 3px;
+}
+
+.producto{
+    width: 230px;
+    height: 230px;
+}
+
+.cuadro{
+    max-width: 16.5rem;
+    margin-left: 40px;
+}
+
+.fotoperfil{
+    padding-top: 1px;
+    width: 140px;
+    height: 140px;
+    border-radius: 95px;
+    margin-left: 70px;
+    border: solid black; 
+}
+.perfil{
+    max-width: 18rem;
+    margin-left: 400px;
+}
+.nombre{
+    text-align: center;
+}
+.detper{
+    text-align: center;
+}
+.cuadlog{
+    max-width: 30rem;
+    margin-left: 28%;
+}
+h2{
+    text-align: center;
+}
+
+input[type="number"]{
+    width: 50px;
+}
+
+.gal{
+    text-align: center;
+}
+
+.cuadro{
+    float: left;
+}
